@@ -25,12 +25,12 @@ This is my HW for python
 :arrow_up:[к оглавлению](https://github.com/Meretrix6/Python_HH_HW/tree/main/README.md/#Оглавление)
 
 ### Способ решения
-Для выполнения данной задачи был дан датасет - https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing , на его основе были выполнены и анализированны данные с помощью pandas, plotly. 
+Для выполнения данной задачи был дан датасет - https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing , на его основе были выполнены и проанализированы данные с помощью pandas, plotly. 
 
 :arrow_up:[к оглавлению](https://github.com/Meretrix6/Python_HH_HW/tree/main/README.md/#Оглавление)
 
 ### Выводы
-Были найденны множество выбросов.
+Были найдены множество выбросов.
 Заработная плата определяется следующими признаками; 
     1) Образование
     2) Опыт работы (связан с возрастом)
